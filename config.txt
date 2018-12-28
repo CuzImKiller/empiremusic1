@@ -1,6 +1,6 @@
-﻿token=التوكن 
-owner=ادي بتعك 
+token=NTI4MjQ3NzA5MTI0MTMyODc3.Dwfu8A.RgoG5U3xhgt8QDlLJIWkuHzJ9pk 
+owner=528229703509606402 
 prefix= 1
-game= !thelp
+game= 1play | Empire Music
 stayinchannel=true
 songinstatus=true 
